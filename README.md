@@ -1,6 +1,8 @@
 # RebootAdminGUI
 Admin Pannel for project reboot!
 
+Currently most of the skins are broken aswell as some guns, should be fixed soon
+
 
 Make sure you are an op and have press F2 before pressing anything inside the GUI
 
